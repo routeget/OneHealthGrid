@@ -1,24 +1,6 @@
 # OneHealthGrid
 
-# Integration & Interoperability Whitepaper
-
 **Connecting healthcare delivery, patient information, national digital health ecosystems, enterprise operations, and responsible AI**
-
-| Document attribute | Value |
-|---|---|
-| Document ID | OHG-WP-INT-001 |
-| Version | 1.0 |
-| Publication date | 6 November 2026 |
-| Classification | External technical whitepaper, architecture and product vision |
-| Publisher | OneHealthGrid |
-| Website | https://onehealthgrid.com/ |
-| Primary geographic focus | India, with a multi-country architectural strategy |
-| Intended audiences | Hospital executives, CIOs, CTOs, clinical informaticists, health-system architects, public-health authorities, procurement teams, integration partners, regulators, and technical implementers |
-| Status | Reference architecture and integration strategy. **Not** an attestation that all described connectors are released, deployed, certified, or approved. |
-
-> **Publication and capability disclosure.** This whitepaper describes the OneHealthGrid integration vision, proposed target architecture, design principles, implementation methodology, and example integration contracts. It is not a declaration of current production availability for every capability, external product, module, API, or country-specific adapter discussed. Project-specific deployment scopes, certification status, connector availability, contractual commitments, and technical conformance must be verified independently before procurement or deployment. The examples are illustrative, not live endpoint specifications.
-
----
 
 ## Executive summary
 
